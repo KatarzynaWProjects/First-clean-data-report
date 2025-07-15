@@ -4,7 +4,7 @@ Projekt czyszczenia i analizy danych zamówień klientów w SQL oraz wizualizacj
 
 ## Pliki w repozytorium
 
-- 'raw_customer_orders.csv' – dane przed czyszczeniem (brudne)
+- 'raw_customer_orders.xlsx' – dane przed czyszczeniem (brudne)
 - 'clean_customer_orders.xlsx' – dane po czyszczeniu
 - 'Liczba zamówień według kraju.pdf' – wykres liczby zamówień według kraju
 
