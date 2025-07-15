@@ -31,4 +31,4 @@ Wizualizacja zamówień według kraju znajduje się w pliku PDF:
 
 <img width="1114" height="297" alt="image" src="https://github.com/user-attachments/assets/cf3ee783-858e-4b29-9f46-2d55bad086d0" />
 
-https://github.com/KatarzynaWProjects/First-clean-data-report/blob/main/kod%20sql%20do%20clean_customer_orders.txt
+[https://github.com/KatarzynaWProjects/First-clean-data-report/blob/main/kod%20sql%20do%20clean_customer_orders.txt](https://github.com/KatarzynaWProjects/First-clean-data-report/blob/main/data_cleaning.sql)
