@@ -19,7 +19,8 @@ Projekt czyszczenia i analizy danych zamówień klientów w SQL oraz wizualizacj
 ## Wizualizacja
 
 Wizualizacja zamówień według kraju znajduje się w pliku PDF:  
-[`Liczba zamówień według kraju.pdf`](Liczba%20zam%C3%B3wie%C5%84%20wed%C5%82ug%20kraju.pdf)
+<img width="905" height="639" alt="image" src="https://github.com/user-attachments/assets/94adc49b-22aa-4ef9-99aa-6b0b3dfe139e" />
+
 
 ## Narzędzia
 
