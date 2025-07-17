@@ -1,6 +1,18 @@
-## Dashboard Power BI
+# Power BI Dashboard – Customer Orders
 
-W folderze znajdziesz:
+Ten folder zawiera pliki związane z wizualizacją i analizą zamówień klientów w Power BI.
 
-- Plik źródłowy dashboardu: 'Customer_Orders_Dashboard.pbix'
-- Raport w formacie PDF: 'Customer_Orders_Report.pdf'
+- `Customer_Orders_Dashboard.pbix` – plik źródłowy Power BI z dashboardem
+- `Customer_Orders_Report.pdf` – wyeksportowany raport w PDF
+
+## Krótki opis
+
+Dashboard prezentuje m.in.:
+- Liczbę zamówień według kraju
+- Suma ilości produktów według typu produktu
+- Liczbę zamówień w czasie (wg miesiąca)
+- Filtrowanie po klientach
+
+Wszystkie dane zostały oczyszczone i przygotowane wcześniej w SQL oraz Excelu.
+
+---
